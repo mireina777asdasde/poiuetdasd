@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'jost';
+					src: url('/wp-content/uploads/useanyfont/7801jost.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7801jost.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.jost{font-family: 'jost' !important;}
+
+						body, p, blockquote, li, a, strong, b, em{
+					font-family: 'jost' !important;
+				}
+		
